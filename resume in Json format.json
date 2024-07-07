@@ -1,0 +1,128 @@
+{
+    "name": "Abhishek V B",
+    "contact": {
+      "email": "abhishekvb2003@gmail.com",
+      "phone": "+91 8015787676",
+      "linkedin": "https://www.linkedin.com/in/abhishek-vb/"
+    },
+    "education": [
+      {
+        "institution": "SRM University",
+        "degree": "Btech in CSE with specialization in Big Data Analytics",
+        "date": "Jun 2025",
+        "location": "Chennai, India"
+      },
+      {
+        "institution": "Sri Vijay Vidyalaya",
+        "course": "Higher Secondary Course in Computer Science and Mathematics",
+        "date": "May 2021",
+        "location": "Hosur, India"
+      },
+      {
+        "institution": "Asian Christian Academy",
+        "date": "May 2019",
+        "location": "Hosur, India"
+      }
+    ],
+    "links": {
+      "credly": "https://www.credly.com/earner/earned",
+      "github": "https://github.com/abhivb2003",
+      "linkedin": "https://www.linkedin.com/in/abhishek-vb/",
+      "medium": "https://medium.com/@abhishekvb2003",
+      "geeksforgeeks": "https://www.geeksforgeeks.org/user/abhishek4m3n/"
+    },
+    "coursework": [
+      "Operating System",
+      "Computer Network",
+      "Database Management System",
+      "Object Oriented Programming",
+      "Data Structure and Algorithm"
+    ],
+    "responsibilities": [
+      {
+        "role": "President",
+        "organization": "Computer Society of India",
+        "date": "Mar 2024 - Present",
+        "location": "Chennai, India"
+      },
+      {
+        "role": "Design Team Lead",
+        "organization": "Chipset",
+        "date": "Nov 2022 - Feb 2024",
+        "location": "Chennai, India"
+      }
+    ],
+    "skills": {
+      "programming": ["Python", "HTML", "CSS", "Javascript"],
+      "databases": ["MySQL", "MongoDB"],
+      "version_control_tools": ["Git", "Github"],
+      "visualization_tools": ["Tableau", "Power BI", "Excel", "Google Sheets"],
+      "management_tools": ["MS Project", "MS Office 365"]
+    },
+    "experience": [
+      {
+        "role": "Data Analyst Intern",
+        "organization": "PrepInsta",
+        "date": "Jan 2024 – Apr 2024",
+        "responsibilities": [
+          "Transformed a voluminous dataset of 5000+ entries into actionable insights through meticulous cleaning, advanced statistical analysis, and compelling visualizations, enabling strategic data-driven decisions."
+        ]
+      },
+      {
+        "role": "Data Analyst Intern",
+        "organization": "MentorNess",
+        "date": "Mar 2024 – Apr 2024",
+        "responsibilities": [
+          "Developed and presented interactive dashboards using visualization tools to distill insights from a dataset of 5,000+ movie records, leading to a 20% increase in audience retention.",
+          "Optimized MySQL queries to efficiently retrieve and process large datasets."
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "OTT Platform Insights",
+        "type": "Data Analysis",
+        "link": "https://github.com/abhivb2003/OTT_Platform_Analysis_Dashboards-",
+        "details": [
+          "Independently developed data-driven dashboards, examining 2 years of Amazon prime trends and analyzing 2 years of Netflix genre summaries.",
+          "Utilized advanced visualization for Amazon sales and Netflix genre data, extracting actionable insights to optimize strategies."
+        ]
+      },
+      {
+        "title": "Grocery Website",
+        "type": "Web Development",
+        "link": "https://github.com/abhivb2003/Grocery_Delivery_Website",
+        "details": [
+          "Designed and implemented a multi-page grocery website using HTML, CSS, and JavaScript, optimizing user experience across 8+ pages.",
+          "Implemented intuitive navigation features to streamline user interaction, enhancing overall usability."
+        ]
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Project Management",
+        "organization": "Project Management Institute",
+        "link": "https://www.dropbox.com/scl/fi/1ru5e0miukaq4j9vvgo6w/project-Management.png?rlkey=5g0td8uyy9giq34xj2o2xe3hq&st=3eqd2duq&dl=0",
+        "date": "May 2024"
+      },
+      {
+        "title": "Python for Data Science",
+        "organization": "NPTEL",
+        "link": "https://www.dropbox.com/scl/fi/dfxyevj3it4viumu4okyo/Python-for-Data-Science.jpg?rlkey=62fj2kpo4u96dbrrywr5iapuv&st=3u1i6sih&dl=0",
+        "date": "Feb 2023"
+      },
+      {
+        "title": "Data Science",
+        "organization": "CISCO",
+        "link": "https://www.dropbox.com/scl/fi/ai6h242ml411xhmwytfj9/cisco.png?rlkey=ywr3r48ki4mqp5l2ndfxlpfhf&st=wtm4en6l&dl=0",
+        "date": "Dec 2023"
+      },
+      {
+        "title": "AWS Cloud Technical Essentials",
+        "organization": "Coursera",
+        "link": "https://www.dropbox.com/scl/fi/mv4yxqiqpvq1atfwmv49h/Aws-certificate.jpg?rlkey=8seq3peas0rwz8fpeg60s0oq7&st=7rge82rc&dl=0",
+        "date": "Apr 2024"
+      }
+    ]
+  }
+  
